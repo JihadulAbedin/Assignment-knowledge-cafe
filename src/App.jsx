@@ -7,7 +7,7 @@ import Bookmark from './components/bookmark/Bookmark'
 function App() {
   const [blog, setBlog] = useState([])
   useEffect(() => {
-    fetch('/public/vlog.json')
+    fetch('vlog.json')
       .then(res => res.json())
       .then(data => setBlog(data))
   }, [])
