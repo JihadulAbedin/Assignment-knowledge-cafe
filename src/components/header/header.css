@@ -1,0 +1,22 @@
+/* Logo */
+.logo h1 {
+    color: #111;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+
+/* User Image */
+    .userImage {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+    .userImage img {
+        width: 50px;
+        transform: scale(2);
+        transform-origin: 52% 18%;
+    }
