@@ -11,7 +11,7 @@
     },
     {
         "id":2,
-        "title":"How to get your first job as a self-taught programmer",
+        "title":"How to Change Directory using laravel!",
         "bannerImg":"https://previews.dropbox.com/p/thumb/ACFDPEra4Rl7LBYWOGRBlouOrMcCm1rTW5Wi0ozS9RMeGs6YUZt25_m07QrL_E_XR6qzJ4a1StQkYdi4U7X5RwtGxcOl4OybTFoHHNHiP4tUduz0iIc9tioNNOlZZt4NcttY2dv6EMzHAco14IfwuC_YV1mtyNpflWoy_1-pOTzvwPSGK99elSDrXEgHAizbKx2D9oqU9898fo_yvj72QeVaxmyfOsFisEjntvbKZpv79jQaA9Mq_gANxo8IA25fzmIzqZG3AiNOZREKVbHYYTMztGemzFIDK74FtDw3fe_sTS020YfcgVOfLCVPZrS6_ShTS5VLdIqy_5-URmnPLMhQ/p.png",
         "author":"Mrs. Setara",
         "authorImg":"https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -21,7 +21,7 @@
     },
     {
         "id":3,
-        "title":"How to get your first job as a self-taught programmer",
+        "title":"Github:The Version control you should know",
         "bannerImg":"https://previews.dropbox.com/p/thumb/ACH9hZVm-2d_VoqQUFzLKDF_TGvoZ-lppYQ225z1Ufg9MJUs2KXRxxlk8m7XmLY_fYzlNXjr_uPTogC4qynfTQQcnZ60iglz1rN2reiph8u9aObqM3PHSEuTfNtdu_LdZtWA3SHM_UoAUP-Fl062Y0wQSmdv03vU9AhZIoaoI2_h8PK45TFyJt1Hidsz1vXdbO_Oy0Yr8p7DP35e2SJvA2sAHDvdTBaH76MTZ7uyDg5KIbR7m4FkL0W58KPhKXM84gYRdnDogsAtJNmV1cxSfn9HvWwLMJ17dtxUDCBCeUd4zJzqEEyi_VSC2t2-de87AoiEa89V-6PQm75_R8R-qlKK/p.png",
         "author":"Mina Mostofa",
         "authorImg":"https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -30,8 +30,8 @@
         "audiance":["beginners","programming"]
     },
     {
-        "id":1,
-        "title":"How to get your first job as a self-taught programmer",
+        "id":4,
+        "title":"REACT: The Art of Building new era web application",
         "bannerImg":"https://previews.dropbox.com/p/thumb/ACEXFirfZuJyka3l_oq4k_taGA6BI-t65510PuVDbtKFo8tUphaMfe797BoKdyACQaFijwlJY3EeTJQ3wa3A7jUZ9_ct02Xmuk6ggvKSGIWubrzlwwrDZDoDtmPynx1gIYdEPMvyQVZKTwy7isokj5xZ1SkN5_x6uK07YWnDYV-0cHW4vupkNGsJntoxN_ceDLPNwp3wpMOCW6AhcwcMlnNyMaGk1BCCPpTb82rfVpOoDxeij_xBSJtsVM-uEq6ZmD8F3rLBZoNFGXzGqrAKAcSLWikZiqlYTjhSVW_dcnrHpUPgrdUg7HzSybvr1rxFxr35fIfJx6IOgOi4wsVp8unR/p.png",
         "author":"Mr. Raju",
         "authorImg":"https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
