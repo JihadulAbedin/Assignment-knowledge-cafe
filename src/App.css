@@ -1,15 +1,45 @@
-.header{
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding:50px 0 32px;
-  border-bottom:1px solid rgba(17, 17, 17, 0.15);
-  margin-bottom:32px;
+  padding: 50px 0 32px;
+  border-bottom: 1px solid rgba(17, 17, 17, 0.15);
+  margin-bottom: 32px;
 }
 
 /* Main Section */
-main{
-  display:grid;
-  grid-template-columns:3fr 2fr;
+main {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
   column-gap: 24px;
+}
+
+/* time show */
+.timeShow {
+  color: #6047EC;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 38.4px;
+  text-align: center;
+  padding: 28px;
+  border-radius: 8px;
+  border: 1px solid #6047EC;
+  background: rgba(96, 71, 236, 0.10);
+}
+
+/* Bookmark Section */
+.bokkmarkTitles {
+  border-radius: 8px;
+  background: rgba(17, 17, 17, 0.05);
+  box-sizing: border-box;
+  padding: 30px;
+  margin-top:24px;
+}
+
+.bokkmarkTitles h2{
+  color: #111;
+  font-size: 30px;
+  font-weight: 700;
+  line-height:38.4px ;
+  margin-bottom:16px;
 }

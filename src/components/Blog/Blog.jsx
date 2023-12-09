@@ -1,11 +1,11 @@
 import './Blog.css'
-import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
 const Blog = (props) => {
     const { audiance, author, authorImg, bannerImg, publishDate, time, title } = props.blogData
-
+    const timeCountFunc = props.timeFunction
+    const bookmark = props.markBook
     return (
         <div style={{paddingBottom:'38px',borderBottom:'1px solid rgba(17, 17, 17, 0.10)',marginBottom:'38px'}}>
             <div className="blogImage">
@@ -22,7 +22,7 @@ const Blog = (props) => {
                 <div className="timeToRead">
                     <p>
                         {time} min read &nbsp;
-                        <FontAwesomeIcon icon={faBookmark} />
+                        <FontAwesomeIcon onClick={()=>bookmark(props.blogData)} icon={faBookmark} />
                     </p>
                 </div>
             </div>
@@ -33,7 +33,7 @@ const Blog = (props) => {
                     <li>{audiance[1]}</li>
                 </ul>
             </div>
-            <a href="">Mark As Read</a>
+            <p onClick={()=> timeCountFunc(time)} className='markRead'>Mark As Read</p>
         </div>
     );
 };
